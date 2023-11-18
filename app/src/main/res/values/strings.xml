@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StormCape</string>
+    <string name="background_of_the_card">background of the card</string>
+    <string name="weather_icon">weather icon</string>
+    <string name="city">city</string>
+    <string name="deg">deg</string>
+</resources>
