@@ -2,7 +2,6 @@ package com.matanboas.stormcape;
 
 import java.util.List;
 
-// A class that represents the root object
 public class WeatherData {
     private Coord coord;
     private List<Weather> weather;

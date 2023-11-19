@@ -45,11 +45,11 @@ public class Card {
                 this.weatherIcon = R.mipmap.few_clouds;
                 break;
 
-            case "03d":
+            case "03n":
                 this.weatherIcon = R.mipmap.scattered_clouds_n;
                 break;
 
-            case "03n":
+            case "03d":
                 this.weatherIcon = R.mipmap.scattered_clouds;
                 break;
 
